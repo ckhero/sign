@@ -1,0 +1,8 @@
+.idea
+*.prof
+*.o
+*.log
+*.test
+**/docker/data/
+*
+!*.*
